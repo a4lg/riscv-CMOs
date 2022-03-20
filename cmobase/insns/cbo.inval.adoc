@@ -5,7 +5,7 @@ Synopsis::
 Perform an invalidate operation on a cache block
 
 Mnemonic::
-cbo.inval _base_
+cbo.inval 0(_base_)
 
 Encoding::
 [wavedrom, , svg]
